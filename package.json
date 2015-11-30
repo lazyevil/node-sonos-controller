@@ -1,0 +1,11 @@
+{
+    "name": "node-sonos-controller",
+    "version": "1.0.0",
+    "description": "a sonos controller interface",
+    "author": "lazyevil@yahoo.com",
+    "dependencies": {
+        "underscore": "*",
+        "yargs": "*",
+        "debug": "*"
+    }
+}
